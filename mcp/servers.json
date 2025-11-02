@@ -1,0 +1,24 @@
+{
+  "servers": [
+    {
+      "name": "playwright-mcp",
+      "repository": "https://github.com/microsoft/playwright-mcp.git",
+      "localPath": "mcp/playwright-mcp"
+    },
+    {
+      "name": "figma-context-mcp",
+      "repository": "https://github.com/GLips/Figma-Context-MCP.git",
+      "localPath": "mcp/figma-context-mcp"
+    },
+    {
+      "name": "reddit-mcp",
+      "repository": "https://github.com/Arindam200/reddit-mcp.git",
+      "localPath": "mcp/reddit-mcp"
+    },
+    {
+      "name": "mobilecli",
+      "repository": "https://github.com/mobile-next/mobilecli.git",
+      "localPath": "mcp/mobilecli"
+    }
+  ]
+}
